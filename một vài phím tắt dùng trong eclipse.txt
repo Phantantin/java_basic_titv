@@ -1,0 +1,7 @@
+một vài phím tắt dùng trong eclipse:
+Alt + S +A: tạo constructor
+Alt + S +R: tạo get và set
+Ctrl + Alt + mũi tên xuống: copy một dòng
+Alt + mũi tên xuống hoặc lên : di chuyển dòng code
+Ctrl + Shift + F: format code
+Ctrl + D: xóa dòng
